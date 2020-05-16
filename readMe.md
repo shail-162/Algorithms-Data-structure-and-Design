@@ -2,14 +2,21 @@
             
 
 General approach to backTracking questions
+
 https://leetcode.com/problems/permutations/discuss/18239/a-general-approach-to-backtracking-questions-in-java-subsets-permutations-combination-sum-palindrome-partioning
 
 What to do when you are stuck in interview? 
+
 https://www.byte-by-byte.com/stuck-on-coding-interview/
 
 Basic questions about scalability
+
 https://www.fromdev.com/2013/07/architect-interview-questions-and-answers.html
-            
+
+Complete guid to scalability
+
+http://highscalability.com/
+          
 How do you handle 10,000 request per second ?
 https://blog.krecan.net/2010/05/02/cool-tomcat-is-able-to-handle-more-than-13000-concurrent-connections/
 
@@ -29,18 +36,23 @@ what happens when you hit google.com in browser ?
 https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a
 
 Design book my show -> System design
+
 https://www.youtube.com/watch?v=lBAwJgoO3Ek
 
 OSI Model
+
 https://www.youtube.com/watch?v=vv4y_uOneC0
 
 Networking Basics
+
 https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW
 
 Expiration map
+
 http://www.java2s.com/Code/Java/Collections-Data-Structure/ExpiringMap.htm
 
 28 Programming Interview Questions [Arden Dertat]
+
 http://www.ardendertat.com/2012/01/09/programming-interview-questions/
 
 
