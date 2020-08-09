@@ -3,7 +3,7 @@ package linkedList.Q2_07_Intersection;
 import library.AssortedMethods;
 import library.LinkedListNode;
 
-public class IntersectionofLL {
+public class IntersectionOfLinkedList {
 
 	public static class Result {
 		public LinkedListNode tail;

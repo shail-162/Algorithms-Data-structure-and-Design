@@ -3,7 +3,8 @@ package arrays;
 /**
  * Given a bitonic sequence of n distinct elements,
  * write a program to find a given element x in the bitonic sequence in O(log n) time.
- * A Bitonic Sequence is a sequence of numbers which is first strictly increasing then after a point strictly decreasing.
+ * A Bitonic Sequence is a sequence of numbers which is first strictly
+ * increasing then after a point strictly decreasing.
  *
  * Examples:
  *

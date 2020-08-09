@@ -26,7 +26,6 @@ public class Max1sInMatrixOf0n1 {
 //        if (j == -1) // if 1 is not present in first row
 //            j = C - 1;
         int j = C -1;
-
         for (int i = 0; i < R; i++)
         {
             // Move left until a 0 is found
@@ -45,7 +44,6 @@ public class Max1sInMatrixOf0n1 {
         int[][] matrix = new int[M][N];
         for (int i = 0; i < M; i++) {
             for (int j = 0; j < N; j++) {
-
                 if(i>=2){
                     matrix[j][i] = 1;
                 } else {

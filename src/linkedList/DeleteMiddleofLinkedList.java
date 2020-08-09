@@ -16,10 +16,28 @@ public class DeleteMiddleofLinkedList {
 	}
 	
 	public static void main(String[] args) {
-		LinkedListNode head = AssortedMethods.randomLinkedList(10, 0, 10);
+		LinkedListNode head = AssortedMethods.randomLinkedList(9, 0, 100);
 		System.out.println(head.printForward());
-		deleteNode(head.next.next.next.next); // delete node 4
+		LinkedListNode middle = findMiddleOfLinkedList(head);
+		System.out.println("middle= "+ middle.data);
+		deleteNode(middle); // delete node 4
 		System.out.println(head.printForward());
+	}
+
+	public static LinkedListNode findMiddleOfLinkedList(LinkedListNode node){
+		if (node == null){
+			return null;
+		}
+
+		LinkedListNode slow = node;
+		LinkedListNode fast = node;
+
+		while (slow!=null && fast!=null && fast.next!=null){
+			slow = slow.next;
+			fast = fast.next.next;
+		}
+
+		return slow;
 	}
 
 }

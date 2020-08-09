@@ -9,6 +9,11 @@ import java.util.HashMap;
  * Clone a linked list with next and random pointer
  * We have already discussed 2 different ways to clone a linked list.
  * In this post, one more simple method to clone a linked list is discussed.
+ *
+ * Given a linked list having two pointers in each node.
+ * The first one points to the next node of the list,
+ * however, the other pointer is random and can point to any node of the list.
+ *
  * Time complexity : O(n)
  * Auxiliary space : O(n)
  *

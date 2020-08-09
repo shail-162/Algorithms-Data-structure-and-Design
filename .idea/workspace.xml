@@ -2,30 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc72c90b-bdbf-48d6-81a7-f1959902c88a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PythagoreanTriplet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortArray012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StockBuySellMaxProfit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraysAndStrings/MaxConsecutive1sInBinaryArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursionAndDP/FindAllPermutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursionAndDP/FindAllPossibleSubsets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stacksAndQueues/StackViaQueues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/treesAndGraphs/SerializeDeserializeTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facebook/ContiguousSubArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facebook/FindHappyNumberCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facebook/PairSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facebook/PassingYearbooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facebook/Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facebook/ReverseToMakeEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedList/KthFromMiddleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedList/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedList/Q2_05_Sum_Lists/AddTwoLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedList/SortLinkedList0s1s.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/readMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arraysAndStrings/Q1_02_Check_Permutation/QuestionB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arraysAndStrings/Q1_02_Check_Permutation/StringPermutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arraysAndStrings/Q1_04_Palindrome_Permutation/QuestionB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arraysAndStrings/Q1_04_Palindrome_Permutation/PalindromePermutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arraysAndStrings/Q1_04_Palindrome_Permutation/QuestionC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arraysAndStrings/Q1_04_Palindrome_Permutation/QuestionC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arraysAndStrings/Q1_04_Palindrome_Permutation/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arraysAndStrings/Q1_04_Palindrome_Permutation/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arraysAndStrings/Q1_05_One_Away/QuestionB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arraysAndStrings/Q1_05_One_Away/QuestionB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaNew/Q13_01_Private_Constructor/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaNew/Q13_01_Private_Constructor/Question.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaNew/Q13_07_Lambda_Expressions/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaNew/Q13_07_Lambda_Expressions/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedList/PalindromeLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/Q2_06_Palindrome/PalindromeLL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedList/Q2_02_Return_Kth_To_Last/QuestionD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/Q2_02_Return_Kth_To_Last/KthToLastIterative.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/Q7_01_Deck_of_Cards/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/Q7_01_Deck_of_Cards/BlackJackGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stacksAndQueues/Q3_05_Sort_Stack/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stacksAndQueues/Q3_05_Sort_Stack/SortStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/BionicArraySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/BionicArraySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/CloneLinkedListRandomPointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/CloneLinkedListRandomPointer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/DeleteMiddleofLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/DeleteMiddleofLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/Q2_04_Partition/Partition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/Q2_04_Partition/Partition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/Q2_06_Palindrome/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/Q2_06_Palindrome/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedList/Q2_07_Intersection/IntersectionofLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedList/Q2_07_Intersection/IntersectionOfLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/matrix/Max1sInMatrixOf0n1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/matrix/Max1sInMatrixOf0n1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moderate/Q16_16_Sub_Sort/SubSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moderate/Q16_16_Sub_Sort/SubSort.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,89 +34,6 @@
       <FILTER>treesAndGraphs.Q4_03_List_of_Depths.*</FILTER>
     </SUITE>
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Practice" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/library/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="94" column="28" selection-start-line="94" selection-start-column="28" selection-end-line="94" selection-end-column="28" />
-              <folding>
-                <element signature="e#2062#2063#0" expanded="true" />
-                <element signature="e#2120#2121#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/readMe.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-106">
-              <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/library/BTreePrinter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/treesAndGraphs/Q4_02_Minimal_Tree/Question.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oops/Q7_12_Hash_Table/Hasher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oops/Q7_07_Chat_Server/UserStatus.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/oops/Q7_07_Chat_Server/UserStatusType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -126,147 +41,14 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>BTreePrinter</find>
-      <find>chararrayto</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/moderate/Q16_03_Intersection/Question.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_03_Intersection/LineIntersection.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_05_Factorial_Zeros/QuestionA.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_05_Factorial_Zeros/FactorialZeros.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_06_Smallest_Difference/QuestionA.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_06_Smallest_Difference/SmallestDifference.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_07_Number_Max/Question.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_07_Number_Max/MaxNumber.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_06_Smallest_Difference/QuestionB.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_08_English_Int/Question.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_09_Operations/Question.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_09_Operations/ArithmaticOperations.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_10_Living_People/QuestionA.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_10_Living_People/LivingPeople.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_11_Diving_Board/QuestionC.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_11_Diving_Board/DivingBoardAllLengths.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_12_XML_Encoding/QuestionOO.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_16_Sub_Sort/Question.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_16_Sub_Sort/SubSort.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_17_Contiguous_Sequence/Question.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_17_Contiguous_Sequence/ContiguousSubsequence.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_18_Pattern_Matcher/QuestionD.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_18_Pattern_Matcher/PatternMatching.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_19_Pond_Sizes/QuestionB.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_19_Pond_Sizes/PondSizes.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_20_T9/QuestionC.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_21_Sum_Swap/QuestionD.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_21_Sum_Swap/SumSwap.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_21_Sum_Swap/QuestionC.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_21_Sum_Swap/SumSwap2.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_24_Pairs_With_Sum/QuestionB.java" />
-        <option value="$PROJECT_DIR$/src/moderate/Q16_24_Pairs_With_Sum/PairsWithSum.java" />
-        <option value="$PROJECT_DIR$/src/hard/Q17_01_Add_Without_Plus/QuestionB.java" />
-        <option value="$PROJECT_DIR$/src/hard/Q17_01_Add_Without_Plus/AddWithoutPlus.java" />
-        <option value="$PROJECT_DIR$/src/hard/Q17_02_Shuffle/Question.java" />
-        <option value="$PROJECT_DIR$/src/hard/Q17_02_Shuffle/ShuffleDeckOfCards.java" />
-        <option value="$PROJECT_DIR$/src/hard/Q17_10_Majority_Element/QuestionA.java" />
-        <option value="$PROJECT_DIR$/src/hard/Q17_10_Majority_Element/QuestionB.java" />
-        <option value="$PROJECT_DIR$/src/hard/Q17_10_Majority_Element/MajorityElement.java" />
-        <option value="$PROJECT_DIR$/src/mathAndLogicPuzzle/Q6_05_Egg_Drop/Question.java" />
-        <option value="$PROJECT_DIR$/src/mathAndLogicPuzzle/Q6_05_Egg_Drop/EggDrop.java" />
-        <option value="$PROJECT_DIR$/src/hard/Q17_12_BiNode/QuestionA.java" />
-        <option value="$PROJECT_DIR$/src/hard/Q17_12_BiNode/ConvertLLToDoubleLL.java" />
-        <option value="$PROJECT_DIR$/src/hard/Q17_14_Smallest_K/QuestionB.java" />
-        <option value="$PROJECT_DIR$/src/hard/Q17_14_Smallest_K/SmallestKUsingHeap.java" />
-        <option value="$PROJECT_DIR$/src/hard/Q17_14_Smallest_K/SmallestKUsingSelectionRank.java" />
-        <option value="$PROJECT_DIR$/src/hard/Q17_20_Continuous_Median/Question.java" />
-        <option value="$PROJECT_DIR$/src/hard/Q17_20_Continuous_Median/ContinuousMedian.java" />
-        <option value="$PROJECT_DIR$/src/hard/Q17_20_Continuous_Median/ContinuousMedian2.java" />
-        <option value="$PROJECT_DIR$/src/hard/Q17_21_Volume_of_Histogram/VolumnOfHistogram.java" />
-        <option value="$PROJECT_DIR$/src/BinarySearch.java" />
-      </list>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="5" />
-    <option name="y" value="23" />
-    <option name="width" value="1673" />
-    <option name="height" value="975" />
-  </component>
+  <component name="ProjectId" id="1c001pvzwhHQcx4E4BicFA3xFMj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="Algorithms-Data structure and Design" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Algorithms" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Data structure and Design" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Algorithms" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Data structure and Design" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Algorithms" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="arraysAndStrings" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Data structure and Design" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Algorithms" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="arraysAndStrings" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="matrix" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Algorithms-Data structure and Design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Data structure and Design" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms-Data structure and Design" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms-Data structure and Design" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Practice" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Practice" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553434705619" />
@@ -289,32 +71,13 @@
       <recent name="$PROJECT_DIR$/src/Ch10_SortingAndSearching" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.QuestionB">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
-      <module name="Algorithms" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ContinuousMedian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hard.Q17_20_Continuous_Median.ContinuousMedian" />
+  <component name="RunManager" selected="Application.FindHappyNumberCount">
+    <configuration name="CloneLinkedListRandomPointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedList.CloneLinkedListRandomPointer" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hard.Q17_20_Continuous_Median.*" />
+          <option name="PATTERN" value="linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -322,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContinuousMedian2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hard.Q17_20_Continuous_Median.ContinuousMedian2" />
+    <configuration name="ContiguousSubArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="facebook.ContiguousSubArrays" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hard.Q17_20_Continuous_Median.*" />
+          <option name="PATTERN" value="facebook.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -335,19 +98,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Merge2SortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Merge2SortedArrays" />
+    <configuration name="FindHappyNumberCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="facebook.FindHappyNumberCount" />
       <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="facebook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuestionB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraysAndStrings.matrix.QuestionB" />
+    <configuration name="PassingYearbooks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="facebook.PassingYearbooks" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arraysAndStrings.matrix.*" />
+          <option name="PATTERN" value="facebook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseToMakeEqual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="facebook.ReverseToMakeEqual" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="facebook.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -356,19 +138,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ContinuousMedian" />
-      <item itemvalue="Application.ContinuousMedian2" />
-      <item itemvalue="Application.Merge2SortedArrays" />
-      <item itemvalue="Application.BinarySearch" />
-      <item itemvalue="Application.QuestionB" />
+      <item itemvalue="Application.CloneLinkedListRandomPointer" />
+      <item itemvalue="Application.ReverseToMakeEqual" />
+      <item itemvalue="Application.PassingYearbooks" />
+      <item itemvalue="Application.ContiguousSubArrays" />
+      <item itemvalue="Application.FindHappyNumberCount" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QuestionB" />
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.Merge2SortedArrays" />
-        <item itemvalue="Application.ContinuousMedian" />
-        <item itemvalue="Application.ContinuousMedian2" />
+        <item itemvalue="Application.FindHappyNumberCount" />
+        <item itemvalue="Application.ContiguousSubArrays" />
+        <item itemvalue="Application.PassingYearbooks" />
+        <item itemvalue="Application.ReverseToMakeEqual" />
+        <item itemvalue="Application.CloneLinkedListRandomPointer" />
       </list>
     </recent_temporary>
   </component>
@@ -394,64 +176,12 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="5" y="23" width="1673" height="975" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49657536" visible="true" weight="0.23053342" />
-      <window_info id="Structure" order="1" sideWeight="0.50342464" side_tool="true" weight="0.25335777" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.50342464" side_tool="true" weight="0.25335777" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.29655173" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.18987341" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.36593786" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" x="0" y="0" width="370" height="767" id="Documentation" order="6" sideWeight="0.50061053" side_tool="true" weight="0.2321839" />
-      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.4993895" weight="0.32873562" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4993895" weight="0.2423556" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50061053" side_tool="true" weight="0.32873562" />
-      <window_info anchor="bottom" id="Version Control" order="10" visible="true" weight="0.3952435" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.2413793" />
-      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="SonarLint" order="13" weight="0.32873562" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24969475" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="right" id="Maven" order="8" weight="0.32967034" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32967034" />
-    </layout>
-  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -470,357 +200,130 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="418" height="466" key="DebuggerActiveHint" timestamp="1596962350404">
+      <screen x="90" y="23" width="1590" height="1027" />
+    </state>
+    <state width="422" height="466" key="DebuggerActiveHint/50.23.1630.1027@50.23.1630.1027" timestamp="1596353165555" />
+    <state width="418" height="466" key="DebuggerActiveHint/90.23.1590.1027@90.23.1590.1027" timestamp="1596962350404" />
+    <state width="1539" height="170" key="GridCell.Tab.0.bottom" timestamp="1596986601550">
+      <screen x="84" y="23" width="1596" height="1027" />
+    </state>
+    <state width="1591" height="149" key="GridCell.Tab.0.bottom/46.23.1634.1027@46.23.1634.1027" timestamp="1589965859372" />
+    <state width="1591" height="197" key="GridCell.Tab.0.bottom/47.23.1633.1027@47.23.1633.1027" timestamp="1594203124615" />
+    <state width="1584" height="211" key="GridCell.Tab.0.bottom/49.23.1631.1027@49.23.1631.1027" timestamp="1596353603069" />
+    <state width="1584" height="201" key="GridCell.Tab.0.bottom/50.23.1630.1027@50.23.1630.1027" timestamp="1596355093464" />
+    <state width="1584" height="238" key="GridCell.Tab.0.bottom/54.23.1626.1027@54.23.1626.1027" timestamp="1596868923000" />
+    <state width="1584" height="241" key="GridCell.Tab.0.bottom/56.23.1624.1027@56.23.1624.1027" timestamp="1596434122981" />
+    <state width="1584" height="238" key="GridCell.Tab.0.bottom/61.23.1619.1027@61.23.1619.1027" timestamp="1596869397124" />
+    <state width="1591" height="211" key="GridCell.Tab.0.bottom/76.23.1604.1027@76.23.1604.1027" timestamp="1594289056277" />
+    <state width="1539" height="170" key="GridCell.Tab.0.bottom/84.23.1596.1027@84.23.1596.1027" timestamp="1596986601550" />
+    <state width="1539" height="170" key="GridCell.Tab.0.bottom/90.23.1590.1027@90.23.1590.1027" timestamp="1596986206363" />
+    <state width="1539" height="236" key="GridCell.Tab.0.bottom/96.23.1584.1027@96.23.1584.1027" timestamp="1596900460458" />
+    <state width="1539" height="236" key="GridCell.Tab.0.bottom/99.23.1581.1027@99.23.1581.1027" timestamp="1596897709437" />
+    <state width="1539" height="170" key="GridCell.Tab.0.center" timestamp="1596986601549">
+      <screen x="84" y="23" width="1596" height="1027" />
+    </state>
+    <state width="1591" height="149" key="GridCell.Tab.0.center/46.23.1634.1027@46.23.1634.1027" timestamp="1589965859367" />
+    <state width="1591" height="197" key="GridCell.Tab.0.center/47.23.1633.1027@47.23.1633.1027" timestamp="1594203124614" />
+    <state width="1584" height="211" key="GridCell.Tab.0.center/49.23.1631.1027@49.23.1631.1027" timestamp="1596353603068" />
+    <state width="1584" height="201" key="GridCell.Tab.0.center/50.23.1630.1027@50.23.1630.1027" timestamp="1596355093463" />
+    <state width="1584" height="238" key="GridCell.Tab.0.center/54.23.1626.1027@54.23.1626.1027" timestamp="1596868922999" />
+    <state width="1584" height="241" key="GridCell.Tab.0.center/56.23.1624.1027@56.23.1624.1027" timestamp="1596434122979" />
+    <state width="1584" height="238" key="GridCell.Tab.0.center/61.23.1619.1027@61.23.1619.1027" timestamp="1596869397122" />
+    <state width="1591" height="211" key="GridCell.Tab.0.center/76.23.1604.1027@76.23.1604.1027" timestamp="1594289056277" />
+    <state width="1539" height="170" key="GridCell.Tab.0.center/84.23.1596.1027@84.23.1596.1027" timestamp="1596986601549" />
+    <state width="1539" height="170" key="GridCell.Tab.0.center/90.23.1590.1027@90.23.1590.1027" timestamp="1596986206362" />
+    <state width="1539" height="236" key="GridCell.Tab.0.center/96.23.1584.1027@96.23.1584.1027" timestamp="1596900460456" />
+    <state width="1539" height="236" key="GridCell.Tab.0.center/99.23.1581.1027@99.23.1581.1027" timestamp="1596897709436" />
+    <state width="1539" height="170" key="GridCell.Tab.0.left" timestamp="1596986601548">
+      <screen x="84" y="23" width="1596" height="1027" />
+    </state>
+    <state width="1591" height="149" key="GridCell.Tab.0.left/46.23.1634.1027@46.23.1634.1027" timestamp="1589965859360" />
+    <state width="1591" height="197" key="GridCell.Tab.0.left/47.23.1633.1027@47.23.1633.1027" timestamp="1594203124613" />
+    <state width="1584" height="211" key="GridCell.Tab.0.left/49.23.1631.1027@49.23.1631.1027" timestamp="1596353603068" />
+    <state width="1584" height="201" key="GridCell.Tab.0.left/50.23.1630.1027@50.23.1630.1027" timestamp="1596355093463" />
+    <state width="1584" height="238" key="GridCell.Tab.0.left/54.23.1626.1027@54.23.1626.1027" timestamp="1596868922999" />
+    <state width="1584" height="241" key="GridCell.Tab.0.left/56.23.1624.1027@56.23.1624.1027" timestamp="1596434122978" />
+    <state width="1584" height="238" key="GridCell.Tab.0.left/61.23.1619.1027@61.23.1619.1027" timestamp="1596869397119" />
+    <state width="1591" height="211" key="GridCell.Tab.0.left/76.23.1604.1027@76.23.1604.1027" timestamp="1594289056276" />
+    <state width="1539" height="170" key="GridCell.Tab.0.left/84.23.1596.1027@84.23.1596.1027" timestamp="1596986601548" />
+    <state width="1539" height="170" key="GridCell.Tab.0.left/90.23.1590.1027@90.23.1590.1027" timestamp="1596986206362" />
+    <state width="1539" height="236" key="GridCell.Tab.0.left/96.23.1584.1027@96.23.1584.1027" timestamp="1596900460455" />
+    <state width="1539" height="236" key="GridCell.Tab.0.left/99.23.1581.1027@99.23.1581.1027" timestamp="1596897709435" />
+    <state width="1539" height="170" key="GridCell.Tab.0.right" timestamp="1596986601550">
+      <screen x="84" y="23" width="1596" height="1027" />
+    </state>
+    <state width="1591" height="149" key="GridCell.Tab.0.right/46.23.1634.1027@46.23.1634.1027" timestamp="1589965859369" />
+    <state width="1591" height="197" key="GridCell.Tab.0.right/47.23.1633.1027@47.23.1633.1027" timestamp="1594203124614" />
+    <state width="1584" height="211" key="GridCell.Tab.0.right/49.23.1631.1027@49.23.1631.1027" timestamp="1596353603069" />
+    <state width="1584" height="201" key="GridCell.Tab.0.right/50.23.1630.1027@50.23.1630.1027" timestamp="1596355093464" />
+    <state width="1584" height="238" key="GridCell.Tab.0.right/54.23.1626.1027@54.23.1626.1027" timestamp="1596868923000" />
+    <state width="1584" height="241" key="GridCell.Tab.0.right/56.23.1624.1027@56.23.1624.1027" timestamp="1596434122980" />
+    <state width="1584" height="238" key="GridCell.Tab.0.right/61.23.1619.1027@61.23.1619.1027" timestamp="1596869397122" />
+    <state width="1591" height="211" key="GridCell.Tab.0.right/76.23.1604.1027@76.23.1604.1027" timestamp="1594289056277" />
+    <state width="1539" height="170" key="GridCell.Tab.0.right/84.23.1596.1027@84.23.1596.1027" timestamp="1596986601550" />
+    <state width="1539" height="170" key="GridCell.Tab.0.right/90.23.1590.1027@90.23.1590.1027" timestamp="1596986206363" />
+    <state width="1539" height="236" key="GridCell.Tab.0.right/96.23.1584.1027@96.23.1584.1027" timestamp="1596900460457" />
+    <state width="1539" height="236" key="GridCell.Tab.0.right/99.23.1581.1027@99.23.1581.1027" timestamp="1596897709436" />
+    <state width="1539" height="307" key="GridCell.Tab.1.bottom" timestamp="1596962841927">
+      <screen x="90" y="23" width="1590" height="1027" />
+    </state>
+    <state width="1584" height="241" key="GridCell.Tab.1.bottom/49.23.1631.1027@49.23.1631.1027" timestamp="1596353502044" />
+    <state width="1584" height="314" key="GridCell.Tab.1.bottom/50.23.1630.1027@50.23.1630.1027" timestamp="1596353236354" />
+    <state width="1584" height="241" key="GridCell.Tab.1.bottom/56.23.1624.1027@56.23.1624.1027" timestamp="1596434122983" />
+    <state width="1539" height="307" key="GridCell.Tab.1.bottom/90.23.1590.1027@90.23.1590.1027" timestamp="1596962841927" />
+    <state width="1539" height="307" key="GridCell.Tab.1.center" timestamp="1596962841926">
+      <screen x="90" y="23" width="1590" height="1027" />
+    </state>
+    <state width="1584" height="241" key="GridCell.Tab.1.center/49.23.1631.1027@49.23.1631.1027" timestamp="1596353502043" />
+    <state width="1584" height="314" key="GridCell.Tab.1.center/50.23.1630.1027@50.23.1630.1027" timestamp="1596353236353" />
+    <state width="1584" height="241" key="GridCell.Tab.1.center/56.23.1624.1027@56.23.1624.1027" timestamp="1596434122982" />
+    <state width="1539" height="307" key="GridCell.Tab.1.center/90.23.1590.1027@90.23.1590.1027" timestamp="1596962841926" />
+    <state width="1539" height="307" key="GridCell.Tab.1.left" timestamp="1596962841925">
+      <screen x="90" y="23" width="1590" height="1027" />
+    </state>
+    <state width="1584" height="241" key="GridCell.Tab.1.left/49.23.1631.1027@49.23.1631.1027" timestamp="1596353502042" />
+    <state width="1584" height="314" key="GridCell.Tab.1.left/50.23.1630.1027@50.23.1630.1027" timestamp="1596353236352" />
+    <state width="1584" height="241" key="GridCell.Tab.1.left/56.23.1624.1027@56.23.1624.1027" timestamp="1596434122981" />
+    <state width="1539" height="307" key="GridCell.Tab.1.left/90.23.1590.1027@90.23.1590.1027" timestamp="1596962841925" />
+    <state width="1539" height="307" key="GridCell.Tab.1.right" timestamp="1596962841926">
+      <screen x="90" y="23" width="1590" height="1027" />
+    </state>
+    <state width="1584" height="241" key="GridCell.Tab.1.right/49.23.1631.1027@49.23.1631.1027" timestamp="1596353502043" />
+    <state width="1584" height="314" key="GridCell.Tab.1.right/50.23.1630.1027@50.23.1630.1027" timestamp="1596353236353" />
+    <state width="1584" height="241" key="GridCell.Tab.1.right/56.23.1624.1027@56.23.1624.1027" timestamp="1596434122982" />
+    <state width="1539" height="307" key="GridCell.Tab.1.right/90.23.1590.1027@90.23.1590.1027" timestamp="1596962841926" />
+    <state x="558" y="246" key="RollbackChangesDialog" timestamp="1596986970848">
+      <screen x="90" y="23" width="1590" height="1027" />
+    </state>
+    <state x="534" y="246" key="RollbackChangesDialog/56.23.1624.1027@56.23.1624.1027" timestamp="1589650006922" />
+    <state x="558" y="246" key="RollbackChangesDialog/90.23.1590.1027@90.23.1590.1027" timestamp="1596986970848" />
+    <state x="398" y="175" key="SettingsEditor" timestamp="1596986997130">
+      <screen x="90" y="23" width="1590" height="1027" />
+    </state>
+    <state x="398" y="175" key="SettingsEditor/90.23.1590.1027@90.23.1590.1027" timestamp="1596986997130" />
+    <state width="506" height="445" key="SwitcherDM" timestamp="1596870577112">
+      <screen x="99" y="23" width="1581" height="1027" />
+    </state>
+    <state width="521" height="445" key="SwitcherDM/47.23.1633.1027@47.23.1633.1027" timestamp="1589963418392" />
+    <state width="521" height="445" key="SwitcherDM/49.23.1631.1027@49.23.1631.1027" timestamp="1594204611483" />
+    <state width="521" height="445" key="SwitcherDM/50.23.1630.1027@50.23.1630.1027" timestamp="1596352662693" />
+    <state width="519" height="445" key="SwitcherDM/56.23.1624.1027@56.23.1624.1027" timestamp="1594210035691" />
+    <state width="506" height="445" key="SwitcherDM/99.23.1581.1027@99.23.1581.1027" timestamp="1596870577111" />
+    <state x="559" y="250" width="674" height="676" key="search.everywhere.popup" timestamp="1596961189425">
+      <screen x="90" y="23" width="1590" height="1027" />
+    </state>
+    <state x="528" y="250" width="670" height="676" key="search.everywhere.popup/47.23.1633.1027@47.23.1633.1027" timestamp="1589963421572" />
+    <state x="530" y="250" width="670" height="676" key="search.everywhere.popup/50.23.1630.1027@50.23.1630.1027" timestamp="1596352348861" />
+    <state x="559" y="250" width="674" height="676" key="search.everywhere.popup/90.23.1590.1027@90.23.1590.1027" timestamp="1596961189425" />
+    <state x="565" y="250" width="670" height="676" key="search.everywhere.popup/99.23.1581.1027@99.23.1581.1027" timestamp="1596870583389" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/moderate/Q16_11_Diving_Board/DivingBoardAllLengths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/moderate/Q16_12_XML_Encoding/QuestionString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/moderate/Q16_12_XML_Encoding/QuestionOO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="100" selection-start-line="21" selection-start-column="100" selection-end-line="21" selection-end-column="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/moderate/Q16_13_Bisect_Squares/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/moderate/Q16_16_Sub_Sort/SubSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/moderate/Q16_17_Contiguous_Sequence/ContiguousSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/moderate/Q16_18_Pattern_Matcher/QuestionC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/moderate/Q16_18_Pattern_Matcher/PatternMatching.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/moderate/Q16_19_Pond_Sizes/QuestionA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/moderate/Q16_19_Pond_Sizes/PondSizes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/moderate/Q16_20_T9/QuestionB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/moderate/Q16_20_T9/QuestionC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/moderate/Q16_21_Sum_Swap/SumSwap2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/moderate/Q16_21_Sum_Swap/SumSwap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="5" selection-start-line="5" selection-end-line="13" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/moderate/Q16_24_Pairs_With_Sum/QuestionC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/moderate/Q16_24_Pairs_With_Sum/QuestionA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/moderate/Q16_24_Pairs_With_Sum/PairsWithSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="100" selection-start-line="7" selection-start-column="100" selection-end-line="7" selection-end-column="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hard/Q17_01_Add_Without_Plus/AddWithoutPlus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hard/Q17_02_Shuffle/ShuffleDeckOfCards.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="574">
-          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hard/Q17_03_Random_Set/QuestionAlternate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hard/Q17_10_Majority_Element/QuestionA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mathAndLogicPuzzle/Q6_05_Egg_Drop/EggDrop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/moderate/Q16_25_LRU_Cache/Question.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="53" lean-forward="true" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/moderate/Q16_25_LRU_Cache/Cache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="31" column="60" lean-forward="true" selection-start-line="31" selection-start-column="60" selection-end-line="31" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hard/Q17_10_Majority_Element/MajorityElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="602">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hard/Q17_11_Word_Distance/LocationPair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-          <folding>
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#543#544#0" expanded="true" />
-            <element signature="e#713#714#0" expanded="true" />
-            <element signature="e#767#768#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hard/Q17_12_BiNode/ConvertLLToDoubleLL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hard/Q17_13_ReSpace/QuestionA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hard/Q17_14_Smallest_K/QuestionA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hard/Q17_14_Smallest_K/SmallestKUsingHeap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hard/Q17_14_Smallest_K/SmallestKUsingSelectionRank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hard/Q17_15_Longest_Word/Question.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hard/Q17_20_Continuous_Median/ContinuousMedian.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="78" column="22" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hard/Q17_20_Continuous_Median/ContinuousMedian2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hard/Q17_21_Volume_of_Histogram/HistogramData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hard/Q17_21_Volume_of_Histogram/QuestionA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hard/Q17_21_Volume_of_Histogram/VolumnOfHistogram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Merge2SortedArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hard/Q17_20_Continuous_Median/MaxHeapComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/arraysAndStrings/matrix/Max1sInMatrixOf0n1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/arraysAndStrings/matrix/QuestionB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readMe.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-106">
-          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -908,5 +411,8 @@
         </settings>
       </state>
     </states>
+  </component>
+  <component name="se.expertsystem.intellij.aop.aspectj.AspectJProjectComponent">
+    <setting name="isActivated" value="false" />
   </component>
 </project>
