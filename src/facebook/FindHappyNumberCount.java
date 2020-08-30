@@ -42,7 +42,7 @@ public class FindHappyNumberCount {
 
     public static void main(String[] args) {
 
-        int arr[] = {5,5,7,9,15,2} ;
+        int[] arr = {5,5,7,9,15,2} ;
         //int arr[] ={1,3,5} k =2
         int cnt = getCountOfHappyNumbers(arr, 3);
         System.out.println(cnt);
@@ -54,7 +54,7 @@ public class FindHappyNumberCount {
      * @param k
      * @return
      */
-    public static int getCountOfHappyNumbers(int num[], int k){
+    public static int getCountOfHappyNumbers(int[] num, int k){
         int count = 0;
         Arrays.sort(num);
         for (int i =0; i < num.length; i++){

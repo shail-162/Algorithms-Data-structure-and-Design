@@ -1,22 +1,26 @@
 package facebook;
 
+import java.util.LinkedList;
+import java.util.List;
+
 /**
- * Contiguous Subarrays
- * You are given an array arr of N integers. For each index i, you are required to determine the number of contiguous subarrays that fulfills the following conditions:
- * The value at index i must be the maximum element in the contiguous subarrays, and
- * These contiguous subarrays must either start from or end on index i.
+ * Contiguous Sub-arrays
+ * You are given an array arr of N integers. For each index i, you are required to determine the number of contiguous sub-arrays
+ * that fulfills the following conditions:
+ * The value at index i must be the maximum element in the contiguous sub-arrays, and
+ * These contiguous sub-arrays must either start from or end on index i.
  * Signature
- * int[] countSubarrays(int[] arr)
+ * int[] countSub-arrays(int[] arr)
  * Input
  * Array arr is a non-empty list of unique integers that range between 1 to 1,000,000,000
  * Size N is between 1 and 1,000,000
  * Output
- * An array where each index i contains an integer denoting the maximum number of contiguous subarrays of arr[i]
+ * An array where each index i contains an integer denoting the maximum number of contiguous sub-arrays of arr[i]
  * Example:
  * arr = [3, 4, 1, 6, 2]
  * output = [1, 3, 1, 5, 1]
  * Explanation:
- * For index 0 - [3] is the only contiguous subarray that starts (or ends) with 3, and the maximum value in this subarray is 3.
+ * For index 0 - [3] is the only contiguous sub-array that starts (or ends) with 3, and the maximum value in this sub-array is 3.
  * For index 1 - [4], [3, 4], [4, 1]
  * For index 2 - [1]
  * For index 3 - [6], [6, 2], [1, 6], [4, 1, 6], [3, 4, 1, 6]
@@ -29,25 +33,65 @@ package facebook;
 public class ContiguousSubArrays {
     int[] countSubarrays(int[] arr) {
         // Write your code here
-        //  int[] test_2 = {2, 4, 7, 1, 5, 3};
-//    int[] expected_2 = {1, 2, 6, 1, 3, 1};
-        int output[] = new int[arr.length];
+        if (arr == null || arr.length == 0) return null;
+        int n = arr.length;
+        int[] ans = new int[n];
+        int[] L = getLeftCounts(arr, n);
+        reverseArray(arr);
+        int[] R = getLeftCounts(arr, n);
+        reverseArray(R);
+        for (int i = 0; i < n; i++) {
+            ans[i] = L[i] + R[i] + 1;
+        }
 
-        for (int i =0 ; i < arr.length; i++) {
+        return ans;
+    }
 
-            int count = 0;
-            for (int j = 0 ; j < arr.length; j++) {
+    private int[] reverseArray(int[] arr) {
+        for (int i = 0; i < arr.length/2; i++) {
+            int temp = arr[i];
+            arr[i] = arr[arr.length - 1 - i];
+            arr[arr.length - 1 - i] = temp;
+        }
+        return arr;
+    }
 
-                if (arr[i] < arr[j]) {
-                    break;
-                }  else {
-                    count ++;
+    private int[] getLeftCounts(int[] arr, int n) {
+        int[] L = new int[n];
+        List<Integer> maxes = new LinkedList<>();
+        maxes.add(0);
+        L[0] = 0;
+        for (int i = 1; i < n; i++) {
+            if (arr[i - 1] > arr[i]) {
+                L[i] = 0;
+                continue;
+            }
+            maxes.add(i);
+
+            int maxesIndex = maxes.size() - 2;
+            int currentMaxIndex = maxes.get(maxesIndex);
+            int currentMax = arr[currentMaxIndex];
+            if (arr[i] >= currentMax) {
+                while (maxesIndex > 0 && arr[i] >= currentMax) {
+                    currentMaxIndex = --maxesIndex;
+                    currentMax = arr[currentMaxIndex];
                 }
             }
-            output[i] = count;
 
+            if (arr[currentMaxIndex] <= arr[i]) {
+                L[i] = L[currentMaxIndex] + i - currentMaxIndex;
+            } else {
+                int j = maxes.get(maxesIndex);
+                int nextJ = maxes.get(maxesIndex + 1);
+
+                // This is a decreasing sequence. Use Binary Search!
+                while (j <= nextJ && arr[j] >= arr[i]) {
+                    j++;
+                }
+                L[i] = i - j;
+            }
         }
-        return output;
+        return L;
     }
 
     // These are the tests we use to determine if the solution is correct.

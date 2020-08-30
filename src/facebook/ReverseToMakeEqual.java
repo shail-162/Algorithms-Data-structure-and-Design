@@ -2,7 +2,8 @@ package facebook;
 
 /**
  * Reverse to Make Equal
- * Given two arrays A and B of length N, determine if there is a way to make A equal to B by reversing any subarrays from array B any number of times.
+ * Given two arrays A and B of length N, determine if there is a way to make A equal to B
+ * by reversing any subarrays from array B any number of times.
  * Signature
  * bool areTheyEqual(int[] arr_a, int[] arr_b)
  * Input
