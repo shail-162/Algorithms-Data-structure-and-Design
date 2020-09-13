@@ -15,6 +15,8 @@ https://www.fromdev.com/2013/07/architect-interview-questions-and-answers.html
 
 Complete guid to scalability
 
+https://github.com/donnemartin/system-design-primer
+
 http://highscalability.com/
           
 How do you handle 10,000 request per second ?
