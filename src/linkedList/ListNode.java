@@ -13,10 +13,23 @@ public class ListNode {
 
       public void printForward(){
           ListNode temp = this;
-          while(temp!=null){
-              System.out.print("->" + temp.val );
+          do
+          {
+              System.out.print(temp.val + " ");
               temp = temp.next;
-          }
+          }  while (temp != this);
           System.out.println();
       }
+
+
+    public void printCircularLLForward(){
+        ListNode curr = this;
+        ListNode prev = curr;
+        while(curr != prev.next){
+            System.out.print("->" + curr.val );
+            curr = curr.next;
+            prev = curr;
+        }
+        System.out.println();
+    }
   }

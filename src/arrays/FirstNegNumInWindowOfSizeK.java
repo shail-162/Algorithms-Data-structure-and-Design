@@ -26,7 +26,7 @@ public class FirstNegNumInWindowOfSizeK {
 
         //findFirstNegativeNumEachWindow(arr2, k1);
 
-        findFirstNegativeOptimzed(arr, k);
+        findFirstNegativeOptimized(arr, k);
 
     }
 
@@ -38,7 +38,8 @@ public class FirstNegNumInWindowOfSizeK {
      *  O(nk)
      *
      * Time Complexity : The outer loop runs n-k+1 times and the inner loop runs k times for every iteration of outer loop.
-     * So time complexity is O((n-k+1)*k) which can also be written as O(nk) when k is comparitively much smaller than n, otherwise when k tends to reach n, complexity becomes O(k).
+     * So time complexity is O((n-k+1)*k) which can also be written as O(nk) when k is comparatively much smaller than n,
+     * otherwise when k tends to reach n, complexity becomes O(k).
      */
     public static void findFirstNegativeNumEachWindow(int arr[], int k){
 
@@ -71,7 +72,7 @@ public class FirstNegNumInWindowOfSizeK {
      * Auxiliary Space: O(k)
      */
 
-    public static void findFirstNegativeOptimzed(int arr[], int k){
+    public static void findFirstNegativeOptimized(int arr[], int k){
         Deque<Integer> queue = new LinkedList<>();
         int i = 0;
         for ( ; i < k ; i++){

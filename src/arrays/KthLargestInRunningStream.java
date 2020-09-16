@@ -16,13 +16,13 @@ import java.util.Queue;
 public class KthLargestInRunningStream {
 
 
-    public static void main(String args[]) {
-            int arr[] = {10, 20, 11, 70, 50, 40, 100, 5}    ;
+    public static void main(String[] args) {
+            int[] arr = {10, 20, 11, 70, 50, 40, 100, 5}    ;
             findKthLargestRunningStream(arr, 3);
     }
 
 
-    public static void findKthLargestRunningStream(int arr[], int k){
+    public static void findKthLargestRunningStream(int[] arr, int k){
 
         Queue<Integer> minHeap = new PriorityQueue<>();
 

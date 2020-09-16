@@ -20,7 +20,7 @@ public class IsUniqueHashSet {
         Set<Character> set = new HashSet<>();
 
         for (char ch : charArray){
-            if (set.add(ch) == false){
+            if (!set.add(ch)){
                 return false;
             }
         }

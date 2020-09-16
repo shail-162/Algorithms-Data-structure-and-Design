@@ -11,8 +11,8 @@ package arrays;
 
 public class BinarySearch {
 
-    public static void main(String args[]){
-        int arr[] = {1,4,6,8,10};
+    public static void main(String[] args){
+        int[] arr = {1,4,6,8,10};
         int index  = iterative(arr, 5);
         System.out.println("found at index " + index);
 
@@ -20,7 +20,7 @@ public class BinarySearch {
         System.out.println("found at index " + rindex);
     }
 
-    public static int iterative(int arr[], int search){
+    public static int iterative(int[] arr, int search){
 
         int high = arr.length -1 ;
         int low = 0;

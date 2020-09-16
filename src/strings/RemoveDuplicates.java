@@ -15,19 +15,20 @@ public class RemoveDuplicates {
 
     public static String removeDupliates(char[] str) {
 
-        boolean present[] = new boolean[256];
+        boolean[] present = new boolean[256];
         List<Character> result = new ArrayList<>();
         int n = str.length;  // str is input string
 
         Arrays.fill(present, true);
         /* In place removal of duplicate characters*/
         for (int i = 0; i < n; i++) {
-            if (present[str[i]] == true) {
+            if (present[str[i]]) {
                 result.add(str[i]);
                 present[str[i]] = false;
             }
         }
-        return  result.stream().map(c->c.toString()).collect(Collectors.joining());
+        return  result.stream().map(Object::toString).
+                collect(Collectors.joining());
 
         //OR     result.forEach(ch->builder.append(ch));
         /** OR

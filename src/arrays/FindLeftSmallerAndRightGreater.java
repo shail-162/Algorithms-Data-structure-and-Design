@@ -3,7 +3,8 @@ package arrays;
 /**
  * Find the element before which all the elements are smaller than it, and after which all are greater
  * Given an array, find an element before which all elements are smaller than it,
- * and after which all are greater than it. Return index of the element if there is such an element, otherwise return -1.
+ * and after which all are greater than it.
+ * Return index of the element if there is such an element, otherwise return -1.
  * Examples:
  *
  * Input:   arr[] = {5, 1, 4, 3, 6, 8, 10, 7, 9};
@@ -20,10 +21,14 @@ public class FindLeftSmallerAndRightGreater {
     static int findElement(int arr[], int n)
     {
         // leftMax[i] stores maximum of arr[0..i-1]
-        int leftMax[] = new int[n];
+        int[] leftMax = new int[n];
         leftMax[0] = Integer.MIN_VALUE;
 
         // Fill leftMax[]1..n-1]
+        //arr[] =     {5, 1, 4, 3, 6, 8, 10, 7, 9}
+        //leftMax[] = {5, 5, 5, 5, 6, 8, 10, 10, 10}
+        //rightmax[] ={1, 1, 3, 3, 6, 7, 7, 7, 9}
+
         for (int i = 1; i < n; i++) {
             leftMax[i] = Math.max(leftMax[i-1], arr[i-1]);
         }
