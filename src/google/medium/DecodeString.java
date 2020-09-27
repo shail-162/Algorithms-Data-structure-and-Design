@@ -48,8 +48,7 @@ class DecodeString {
                     i =i+1;
                 }
                 intSt.push(cnt);
-            }
-            else if (s.charAt(i)== ']'){
+            } else if (s.charAt(i)== ']'){
                 StringBuilder sb = new StringBuilder(st.pop());
                 int count = intSt.pop();
                 for (int j=0;j < count; j++){
